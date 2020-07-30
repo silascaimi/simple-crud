@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding-left: 30px;
+}
+
+ul,
+li {
+  list-style-type: none;
+  margin-top: 5px;
+}
+
+.cadastro {
+  margin-bottom: 30px;
+}
+
+.clicable {
+  cursor: pointer;
+}
+
+.btn {
+  background-color: #e4e4e4;
+  padding: 5px 10px;
+  margin: 0px 10px 5px 0px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.btn:hover {
+  background-color: rgb(110, 110, 110);
+  color: white;
+}
